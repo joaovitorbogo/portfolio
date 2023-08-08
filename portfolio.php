@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Contato - Meu Portfólio</title>
+    <title>Meu Portfólio - Projetos</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
@@ -11,20 +11,15 @@
                 <li><a href="index.php">Início</a></li>
                 <li><a href="portfolio.php">Portfólio</a></li>
                 <li><a href="about.php">Sobre Mim</a></li>
-                <li><a href="#contact">Contato</a></li>
+                <li><a href="contact.php">Contato</a></li>
             </ul>
         </nav>
     </header>
 
-    <section id="contact">
-        <div class="container">
-            <h2>Contato</h2>
-            <p>Entre em contato comigo:</p>
-            <ul>
-                <li>Email: <a href="mailto:joaovitor_ferreirabogo@hotmail.com">joaovitor_ferreirabogo@hotmail.com</a></li>
-                <li>WhatsApp: (18) 99786-6039</li>
-            </ul>
-        </div>
+    <section id="portfolio">
+        <h1>Meus Projetos</h1>
+        <p>Até o momento, o único projeto disponível é este site de portfólio.</p>
+        <p>Em breve ocorreção atualizações e a adições de mais projetos !</p>
     </section>
 
     <footer>
